@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @wernes28, Electronics Engineer from Brackenfell, Western Cape, South Africa
+- 👀 I’m interested in ... IOT Firmware development, C# development
+- 🌱 I’m currently learning ... ML.Net
+- 📫 How to reach me ... wernesvanwyk@gmail.com
